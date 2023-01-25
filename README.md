@@ -2,7 +2,7 @@
 - 👀 I’m interested in Modding fnf
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on FNF Mods!
-- 📫 How to reach me? Mitt0#4497 on discord!
+- 📫 How to reach me? Mitt0 (ミット)#4497 on discord!
 
 <!---
 Mitt0/Mitt0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
