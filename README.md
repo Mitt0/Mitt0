@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mitt0
-- 👀 I’m interested in Modding fnf
+- 👀 I’m interested in Indie Dev
 - 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on FNF Mods!
-- 📫 How to reach me? Mitt0 (ミット)#4497 on discord!
+- 💞️ I’m looking to make more games!
+- 📫 How to reach me? mitt0 on discord!
 
 <!---
 Mitt0/Mitt0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
