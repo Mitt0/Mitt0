@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mitt0
+- 👋 Hi, I’m Zero
 - 👀 I’m interested in Indie Dev
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to make more games!
